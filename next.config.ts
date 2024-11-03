@@ -4,7 +4,7 @@ const nextConfig: NextConfig = {
   /* config options here */
   experimental: {
     serverActions: {
-      allowedOrigins: ["nextjs-fullstack-todo", "*.nextjs-fullstack-todo"],
+      allowedOrigins: [],
     },
   },
 };
